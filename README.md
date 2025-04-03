@@ -1,1 +1,1 @@
-# Customer-Segmentation-Analysis
+# This project focuses on customer segmentation for an e-commerce company using K-Means clustering. It involves data preprocessing, exploratory data analysis (EDA), feature engineering, and standardization, followed by Principal Component Analysis (PCA) for dimensionality reduction. The optimal number of clusters was determined using the Elbow method and Silhouette score analysis. The final segmentation provided key insights into spending behavior, income influence, and marketing strategy optimization.
